@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<persons xmlns="http://www.w3schools.com/RedsDevils"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3schools.com/RedsDevils mySchema.xsd">
+	<person>
+		<vorname>Martin</vorname>
+		<nachname></nachname>
+		<geburtstag>1982-04-26</geburtstag>
+	</person>
+</persons>
